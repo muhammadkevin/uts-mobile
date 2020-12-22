@@ -14,6 +14,7 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kevin/.gradle/c
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /home/kevin/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-linear-gradient] /media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/d8031ba7ad89eac391d4216992656ff2/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/454c96154d0a2efb5f34ced0245cf76d/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/6c8969c989a883c90728abf2f80f32fb/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
@@ -151,6 +152,8 @@ MERGED from [org.webkit:android-jsc:r245459] /home/kevin/.gradle/caches/transfor
 MERGED from [org.webkit:android-jsc:r245459] /home/kevin/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/d8031ba7ad89eac391d4216992656ff2/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/d8031ba7ad89eac391d4216992656ff2/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/454c96154d0a2efb5f34ced0245cf76d/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/454c96154d0a2efb5f34ced0245cf76d/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41

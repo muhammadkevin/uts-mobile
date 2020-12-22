@@ -1,0 +1,76 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.utslistview"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:6:22-77
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.54.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.54.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+16
+17    <application
+17-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:8:5-28:19
+18        android:name="com.utslistview.MainApplication"
+18-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:9:7-38
+19        android:allowBackup="false"
+19-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:13:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/kevin/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:11:7-41
+23        android:label="@string/app_name"
+23-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:10:7-39
+24        android:requestLegacyExternalStorage="true"
+24-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:14:7-50
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:12:7-52
+26        android:theme="@style/AppTheme"
+26-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:15:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/debug/AndroidManifest.xml:7:18-53
+28        <activity
+28-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:16:7-26:18
+29            android:name="com.utslistview.MainActivity"
+29-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:17:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+30-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:19:9-86
+31            android:label="@string/app_name"
+31-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:18:9-41
+32            android:launchMode="singleTask"
+32-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:20:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:21:9-51
+34            <intent-filter>
+34-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:22:9-25:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:23:13-65
+35-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:23:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:24:13-73
+37-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:24:23-70
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+40-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:27:7-84
+40-->/media/kevin/KULIAH/Pelajaran/Semester 5/Mobile Programming/UTS/UTSListView/android/app/src/main/AndroidManifest.xml:27:17-81
+41    </application>
+42
+43</manifest>
